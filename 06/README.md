@@ -1,6 +1,7 @@
 1. Jelaskan beberapa contoh fungsi aktivasi
    
 2. Coba gambarkan dan jelaskan beberapa arsitektur berikut:
+   
    a. GAN
    
    b. AE
@@ -11,4 +12,4 @@
    
    e RNN
    
-4. Buatkan kodingan from scracth NN
+3. Buatkan kodingan from scracth NN
